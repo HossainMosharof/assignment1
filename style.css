@@ -26,12 +26,16 @@ a {
 
 h2 {
   font-family: "Lato", sans-serif;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 700;
 }
 
 h2 span {
   display: block;
+}
+
+h3 {
+  font-family: "Lato", sans-serif;
 }
 
 .container {
@@ -71,4 +75,44 @@ h2 span {
 .community__img {
   display: block;
   text-align: right;
+}
+
+.target__mine {
+  border-radius: 10px;
+  padding: 25px;
+}
+
+.target__mine p {
+  font-family: "Lato", sans-serif;
+  text-align: left;
+}
+
+.mission {
+  background-color: #ffebcd;
+  margin-right: 25px;
+}
+
+.vission {
+  background-color: #f5f5f5;
+  margin-right: 25px;
+}
+
+.goals {
+  background-color: #ffe4e1;
+}
+
+.mission__img {
+  width: 40%;
+}
+
+.heading {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 900;
+  margin-bottom: 50px;
+}
+
+.heading span {
+  color: #009cff;
 }
