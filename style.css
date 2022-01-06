@@ -116,3 +116,55 @@ h3 {
 .heading span {
   color: #009cff;
 }
+
+.contact {
+  margin-bottom: 60px;
+}
+
+.contact__form {
+  width: 30%;
+  background-color: #e8eaed;
+  margin: 0 auto;
+  padding: 10px 50px 40px;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.8);
+}
+
+.contact__form label {
+  display: block;
+}
+
+.contact__form input,
+textarea {
+  padding: 10px 4px;
+  width: 100%;
+  border: none;
+}
+
+.contact__form .form__pair {
+  margin-bottom: 10px;
+}
+
+.button__submit {
+  background-color: #93cb52;
+}
+
+footer {
+  background-color: black;
+  padding: 1px 0;
+}
+
+.footer__main {
+  text-align: center;
+  color: white;
+  font-weight: 900;
+  font-size: 20px;
+}
+
+.footer__main span {
+  color: #009cff;
+}
+
+.footer__sub {
+  color: #f5f5f5;
+  text-align: center;
+}
