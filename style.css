@@ -10,6 +10,7 @@ section {
 p {
   font-family: "Montserrat", sans-serif;
   text-align: justify;
+  font-weight: 500;
   line-height: 1.5;
 }
 
@@ -21,6 +22,16 @@ a {
   border-radius: 5px;
   display: inline-block;
   margin: 10px 0;
+}
+
+h2 {
+  font-family: "Lato", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+h2 span {
+  display: block;
 }
 
 .container {
